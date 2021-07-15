@@ -21,6 +21,7 @@ The correspondence of every emotion with genre of movies is listed below:
 
 
 
+```sh
 Sad – Drama
 Disgust – Musical
 Anger – Family
@@ -29,5 +30,5 @@ Fear – Sport
 Enjoyment – Thriller
 Trust – Western
 Surprise – Film-Noir
-
+```
 Based on the input emotion, the corresponding genre would be selected and all the top 5 movies of that genre would be recommended to the user.
